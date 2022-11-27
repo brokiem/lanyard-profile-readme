@@ -412,7 +412,7 @@ const renderCard = async (body: LanyardTypes.Root, params: Parameters): Promise<
                         line-height: 1;
                         width: 279px;
                     ">
-                        <p style="font-size: 0.75rem; font-weight: bold; color: ${
+                        <p style="font-size: 0.80rem; font-weight: 800; color: ${
                             theme === "dark" ? "#1CB853" : "#0d943d"
                         }; margin-bottom: 15px;">LISTENING TO SPOTIFY</p>
                         <p style="
