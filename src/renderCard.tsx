@@ -144,7 +144,7 @@ const renderCard = async (body: LanyardTypes.Root, params: Parameters): Promise<
                         inset: 0;
                         background-color: #${backgroundColor};
                         color: ${theme === "dark" ? "#fff" : "#000"};
-                        font-family: 'Century Gothic', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+                        font-family: Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
                         font-size: 16px;
                         display: flex;
                         flex-direction: column;
